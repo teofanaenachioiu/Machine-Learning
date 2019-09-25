@@ -17,10 +17,6 @@ import javax.imageio.ImageIO;
 /**
  * Reads in the image files and stores BufferedImage's for every example.  Converts to fixed-length
  * feature vectors (of doubles).  Can use RGB (plus grey-scale) or use grey scale.
- *
- * Copyright 2017.  Free for educational and basic-research use.
- *
- * @author: Yuting Liu and Jude Shavlik.
  */
 public final class Main {
 
